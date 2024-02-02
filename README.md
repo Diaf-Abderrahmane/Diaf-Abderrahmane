@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DIAF Abderrahmane, a.k.a <font color="#3498db">Selfless Tech Freak</font> 🚀</h1>
 <h3 align="center">Mobile Developer and AI/QC enthusiast</h3>
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Diaf-Abderrahmane/Diaf-Abderrahmane/assets/115807299/07e15fec-9040-4c1b-aa0b-2461da258207)
-
+![](https://github.com/Diaf-Abderrahmane/Diaf-Abderrahmane/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 - 🔭 I’m currently working on **Flawa mobile app**
 
