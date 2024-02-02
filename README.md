@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DIAF Abderrahmane, a.k.a <span style="color: #3498db;">Selfless Tech Freak</span> 🚀</h1>
+<h1 align="center">Hi 👋, I'm DIAF Abderrahmane, a.k.a <font color="#3498db">Selfless Tech Freak</font> 🚀</h1>
 <h3 align="center">Mobile Developer and AI/QC enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaf-abderrahmane" alt="diaf-abderrahmane" /></a> </p>
