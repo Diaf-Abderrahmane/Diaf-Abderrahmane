@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm DIAF Abderrahmane, a.k.a <font color="#3498db">Mario</font> 🚀</h1>
-<h3 align="center">Mobile Developer and AI/QC enthusiast</h3>
-![](https://github.com/Diaf-Abderrahmane/Diaf-Abderrahmane/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi 👋, I'm DIAF Abderrahmane, a.k.a $${\color{red}Mario}$$ 🚀</h1>
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
+<h3 align="center">Mobile Developer and AI/QC adventurer</h3>
+
+<!--![](https://github.com/Diaf-Abderrahmane/Diaf-Abderrahmane/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)>
+
+<!-- <img src='./src/welcome-friends-surf.gif' width='100%' > -->
+<img src='./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width='100%' >
+<!-- <img src='./src/welcome-friends-arcade.gif' width='100%' > -->
 
 - 🔭 I’m currently working on **Flawa mobile app**
 
