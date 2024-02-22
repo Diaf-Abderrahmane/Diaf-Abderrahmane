@@ -8,7 +8,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" src='./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width="500" height="320"  >
 
-- 🔭 I’m currently working on **[Flawa app](https://github.com/Diaf-Abderrahmane/flower_app)**
+- 🔭 I’m currently working on **[Flawa app](https://github.com/Diaf-Abderrahmane/flower_app)** and ****[Aka Chat](https://github.com/Diaf-Abderrahmane/aka_chat)** 
 
 - 🌱 I’m currently learning **Flutter & Qiskit**
 
