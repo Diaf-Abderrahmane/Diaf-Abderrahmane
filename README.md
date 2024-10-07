@@ -1,5 +1,5 @@
 
-hi, i'm Abderrahmane DIAF, a passionate mobile developer and AI/QC enthusiast from Algeria. My passion for software & technology lies with dreaming up ideas and making them come true with elegant interfaces. 
+hi, i'm Abderrahmane DIAF, a passionate application developer and data engineering enthusiast from Algeria. My passion for software & technology lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 🔭 I’m currently working on **[Flawa app](https://github.com/Diaf-Abderrahmane/flower_app)** and ****[Aka Chat](https://github.com/Diaf-Abderrahmane/aka_chat)** 
 
-- 🌱 I’m currently learning **Flutter & Qiskit**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **QC projects**
 
