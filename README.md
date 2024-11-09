@@ -1,5 +1,5 @@
 
-hi, i'm Abderrahmane DIAF, a passionate application developer and data engineering enthusiast from Algeria. My passion for software & technology lies with dreaming up ideas and making them come true with elegant interfaces. 
+hi, i'm Abderrahmane DIAF, a passionate application developer and data engineering enthusiast, currently in my last year of masters at Polytechnique Lyon in France. My passion for software & technology lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
