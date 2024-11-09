@@ -10,15 +10,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 🔭 I’m currently working on **[Todo App with React](https://github.com/Diaf-Abderrahmane/flower_app)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **QC projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diaf-Abderrahmane](https://github.com/Diaf-Abderrahmane)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Java & Flutter**
 
-- 📫 How to reach me **ja_diaf@esi.dz**
+- 📫 How to reach me **abderrahmane.diaf.p@gmail.com**
 
 - ⚡ Fun fact **I used to hate coding**
 
