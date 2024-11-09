@@ -3,7 +3,7 @@ hi, i'm Abderrahmane DIAF, a passionate application developer and data engineeri
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-💼 any freelance work? do reach, [email](ja_diaf@esi.dz) :)
+💼 any freelance work? do reach, [email](abderrahmane.diaf.p@gmail.com) :)
 💬 ask me about anything, i am happy to help;
 
 <img align="right" src='./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width="500" height="320"  >
